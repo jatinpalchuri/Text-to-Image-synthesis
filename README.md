@@ -1,5 +1,5 @@
 # Text-to-Image-synthesis
-This repository contains the source code for the text to image synthesis using  GAN's all the structres and codes are referenced from the original papers please look at references section for further information.
+This repository contains the source code(in a google drive if you require code please ask for permission to view files) for the text to image synthesis using  GAN's all the structres and codes are referenced from the original papers please look at references section for further information.
 All the scripts from the source code were in python 2 but all the scripts are modified to use the following packages.
 The jupyter notebook has the code to run validation or generate images using the text and all the codes are modified to run semantic object accuracy for all the gan's.
 Please change the relevent paths in coco_eval.yml in all the GAN's folders and change the corresponding shell scripts too for using the gan's to generate images or for calculating semantic object accuracy.
