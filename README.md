@@ -39,9 +39,9 @@ Werkzeug==0.14.1
 
 # Results
 
--One example on all the generated images for 
+One example on all the generated images for 
 
---Input (five texts describing the required image)
+Input (five texts describing the required image)
 
 baseball players practicing their batting skills in a filled arena.
 
